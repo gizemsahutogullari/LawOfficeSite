@@ -254,6 +254,9 @@
     align-items: center;
     text-align: center;
 }
+.about h1 {
+    margin-top: 120px ;
+}
 
 .about p {
     color: #323131;
