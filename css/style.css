@@ -130,7 +130,7 @@
     background-repeat: no-repeat;
     background-size: 100%; /* Başlangıç boyutu */
     background-position: center;
-    height: 100vh;
+    height: 70vh;
     color: #fff;
     position: relative;
     animation: switchAndZoom 20s infinite linear; /* 20 saniyelik döngü */
